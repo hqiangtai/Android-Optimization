@@ -1,2 +1,3 @@
 # Android-Standard
-android coding standard
+android high quality coding  
+总结android的优化
